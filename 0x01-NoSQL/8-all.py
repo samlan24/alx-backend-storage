@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pymongo import MongoClient
 
 """Python function that lists all documents in a collection"""
